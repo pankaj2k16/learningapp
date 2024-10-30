@@ -7,7 +7,7 @@
 
     <fragment android:id="@+id/home"
         android:label="home"
-        android:name="com.rajlee.learningapp.ui.home.HomeFragment"
+        android:name="com.rajlee.git add README.md.ui.home.HomeFragment"
         tools:layout="@layout/fragment_home"/>
 
     <fragment android:id="@+id/code"
