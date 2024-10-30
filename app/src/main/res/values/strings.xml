@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BSEB</string>
+    <string name="d_n_p_pankaj_kumar">D N P PANKAJ KUMAR</string>
+    <string name="pankaj_kumar_photo">Pankaj Kumar Photo</string>
+    <string name="welcome_to_rajlee_education">Welcome to Rajlee Education</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="code_fragment">Code Fragment</string>
+    <string name="quiz_fragment">Quiz Fragment</string>
+</resources>
